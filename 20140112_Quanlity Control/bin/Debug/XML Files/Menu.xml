@@ -1,0 +1,17 @@
+<Application>
+	<Menus>
+		<action type="add">
+
+      <Menu Checked="0" Enabled="1" FatherUID="4352" Image="" Position="6" String="Quality Control"
+      Type="2" UniqueID="QC1001">
+      </Menu>
+			<Menu Checked="0" Enabled="1" FatherUID="QC1001" Image="" Position="0" String="QC for Raw Material"
+				Type="1" UniqueID="QC0001">
+					</Menu>
+      <Menu Checked="0" Enabled="1" FatherUID="QC1001" Image="" Position="1" String="QC for Finished Items"
+				Type="1" UniqueID="QC0002">
+      </Menu>
+		
+		</action>
+	</Menus>
+</Application>
